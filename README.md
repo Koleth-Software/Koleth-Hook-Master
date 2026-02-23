@@ -1,6 +1,7 @@
 # 🚀 Koleth Hook Master
 
-![Koleth Hook Master](logo.png)
+![Koleth Hook Master](<img width="717" height="717" alt="indir" src="https://github.com/user-attachments/assets/5cddb9fa-3939-46e3-ad5a-47d4848dc6d8" />)
+
 
 **Koleth Hook Master**, Discord webhook'larını yönetmek, gelişmiş embed mesajları tasarlamak ve zamanlanmış mesajlar göndermek için geliştirilmiş, minimalist ve profesyonel bir masaüstü uygulamasıdır. Python ve CustomTkinter kullanılarak modern bir "Dark Mode" arayüzüyle tasarlanmıştır.
 
@@ -40,7 +41,8 @@ Eğer Python kurmakla uğraşmak istemiyorsanız, [Releases](#) (Sürümler) sek
 
 ## 🎨 Ekran Görüntüleri
 
-*(Buraya uygulamanın ekran görüntülerini ekleyebilirsiniz)*
+<img width="1919" height="1117" alt="image" src="https://github.com/user-attachments/assets/8c628610-b867-40a2-80c3-44a54e41736b" />
+
 
 ## 🤝 Katkıda Bulunma
 
