@@ -1,6 +1,6 @@
 {
     "test": {
-        "webhook_url": "https://discord.com/api/webhooks/1325193306665123933/1xPZ3YLYPtFlFAixqGxNXh3PHyJTrEh_3RyVoFH1Fps4Mn5W2nG1Qh1bEtB38Pu7Q2sV",
+        "webhook_url": "",
         "title": "test",
         "description": "test",
         "color": "#ffffff",
